@@ -1,0 +1,7 @@
+- Files MUST use only <?php and ?> tags.
+- Files MUST use only UTF-8 without BOM for PHP code.
+- Namespaces and classes MUST follow an "autoloading" PSR: [PSR-0, PSR-4].
+- Vars names MUST be declared all in lower case with underscore separators.
+- Constants MUST be declared in all upper case with underscore separators.
+- Class names MUST be declared in StudlyCaps.
+- Method names MUST be declared in camelCase.
